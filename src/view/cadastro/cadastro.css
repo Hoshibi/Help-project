@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(212, 209, 212);
+}
+
+.form-login{
+    color: #186d18;
+    max-width: 450px;
+    background-color: white;
+    padding: 5%;
+    height: 80vh;
+    border-radius: 5px;
+    box-shadow: 2px 2px 10px rgb(145, 136, 145);
+    padding-top: 70px;
+
+}
+
+.btn-cadastro {
+    background-color: #136313;
+    color:white;
+    transition: 0.5s;
+}
+
+.btn-cadastro:hover {
+    background-color: #1d951d;
+    color: white;
+}

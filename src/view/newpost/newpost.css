@@ -1,0 +1,21 @@
+body{
+    background-color: white;
+}
+
+.cadastrar{
+    margin: auto;
+}
+.cadastrar h3{
+    color:#0e4b0e;
+}
+
+.btn-cadastro {
+    background-color: #136313;
+    color:white;
+    transition: 0.5s;
+}
+
+.btn-cadastro:hover {
+    background-color: #1d951d;
+    color: white;
+}

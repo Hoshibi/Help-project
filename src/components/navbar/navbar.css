@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Poppins:wght@700&display=swap");
+
+.navbar{
+    background-color: rgb(15, 80, 15);
+}
+
+.link-home{
+    color: ivory;
+    font-family: 'Ubuntu', sans-serif;
+}
+.link-home:hover{
+    color:rgb(87, 167, 87);
+}
+
+.nav-item a{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 17px;
+    color: ivory;
+}
+.nav-item a:hover{
+    color:rgb(87, 167, 87);
+}

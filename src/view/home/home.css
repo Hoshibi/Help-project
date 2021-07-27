@@ -1,0 +1,31 @@
+.join{
+    text-align: center;
+    font-family: "Open Sans" , sans-serif;
+    padding: 9em 0;
+    color: #31672d;
+  }
+  
+  .join a{
+    color: #1a4118;
+    border: 2px solid;
+    border-radius: 30px;
+    padding: 10px;
+    align-items: center;
+    border-color: #84c77f;
+    background-color: #84c77f;
+    position: relative;
+    top: 30px;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 550;
+    font-size: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+  }
+  
+  .join a:hover{
+    color: #3d7e39;
+    background-color: #b7deb5;
+    border-color: #b7deb5;
+    text-decoration:none;
+    box-shadow: 0 5px 7px rgba(0, 0, 0, 0.3);
+  }

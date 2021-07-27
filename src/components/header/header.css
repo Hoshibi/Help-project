@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Poppins:wght@700&display=swap");
+
+header {
+    display:flex;
+    padding: 2vmax;
+    height: 20vh;
+    background-color: rgb(236, 232, 232);
+  }
+
+header img{
+    width: 200px;
+}
+
+.text-header{
+    text-align-last: right;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    color: rgb(40, 136, 72);
+    font-size: 15px;
+    position: absolute;
+    right: 35px;
+    top: 60px;
+}

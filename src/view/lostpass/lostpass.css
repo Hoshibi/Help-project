@@ -1,0 +1,32 @@
+.form-login{
+    color: #186d18;
+    max-width: 450px;
+    background-color: white;
+    padding: 5%;
+    height: 80vh;
+    border-radius: 5px;
+    box-shadow: 2px 2px 10px rgb(145, 136, 145);
+    padding-top: 70px;
+
+}
+
+.btn-enviar {
+    background-color: #136313;
+    color:white;
+    transition: 0.5s;
+}
+
+.btn-enviar:hover {
+    background-color: #1d951d;
+    color: white;
+}
+
+.opcoes-recuperar a{
+    text-decoration: none;
+    color: rgb(14, 70, 14);
+    font-weight: 500;
+}
+
+.opcoes-recuperar a:hover{
+    color: rgb(87, 212, 87);
+}
