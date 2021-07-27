@@ -55,6 +55,13 @@ function PostDetails({match}){
                 </div>
         
                 <div className="col-md-3 col-sm-12 ">
+                    {/* Alterção => Adicionar o campo de vizualização do detalhe Grau do Risco de Extinção */}
+                    <div className="p-3 box-info mt-4 mb-2">
+                        <i className="fas fa-exclamation-circle fa-2x mb-2"></i>
+                        <h6><strong>Grau do Risco de Extinção:</strong></h6>
+                        <span className="mt-1 mb-2">{post.risco}</span>
+                    </div>
+                    {/* Fim da alteração */}
                     <div className="p-3 box-info mb-2">
                         <i className="fas fa-tags fa-2x mb-2"></i>
                         <h6><strong>Reino:</strong></h6>
