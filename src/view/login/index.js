@@ -58,7 +58,7 @@ function Login() {
                 </div>
 
                 <div className="opcoes text-center">
-                    <Link to='/cadastrar' className="mx-4">Cadastrar</Link>
+                    <Link to='/cadastrar' className="mx-4">Cadastrar novo Usuário</Link>
                     <Link to="/lostpass" className="mx-4">Recuperar Senha</Link>
                 </div>
             </form>
